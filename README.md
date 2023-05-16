@@ -1,5 +1,5 @@
 
-## Enail client clone
+## Email client clone
 ## APP type
 ui/ux clone of Email clients
 
